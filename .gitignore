@@ -2,7 +2,7 @@
 terraform-docs
 /bin
 /.tfdocs.d
-/.terraform
+/.terraform/
 
 # Binaries for programs and plugins
 *.exe
